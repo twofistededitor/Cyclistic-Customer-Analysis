@@ -43,13 +43,14 @@ A basic analysis caluculating average, median, min and max is run. Then we start
 We compared members' and casual users' ride length, the average ride time by day for members versus casual riders, the average ride time by day, average ride time by type and weekday, and rides by rider type. Along the way, the days of the week were adjusted to be in the correct order.
 
 ## Visualization
-Two charts were created, and can be found in the Appendix item called 'Annotated R markdown document' and in the presentation.
+Two charts were created, and can be found in the Appendix item called 'presentation'.
 
 ## Conclusion
 
+
 ## Appendix
 Annotated R markdown document [https://github.com/twofistededitor/Cyclistic-Customer-Analysis/blob/main/R-code-for-Cyclistic-Custoemr-Analysis.md] 
-
-## Changelog 
+Presentation []
+Changelog
 
 ## Presentation
