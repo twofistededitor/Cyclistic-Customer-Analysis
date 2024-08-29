@@ -18,9 +18,7 @@ Executive team
 ### Business Task
 How do annual members and casual riders use Cyclistic bikes differently?
 
-## Prepare
-
-## Changelog
+## Preparation and Analysis Changelog
 
 ## Appendix
 Annotated R markdown document [https://github.com/twofistededitor/Cyclistic-Customer-Analysis/blob/main/R-code-for-Cyclistic-Custoemr-Analysis.md] 
