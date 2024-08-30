@@ -1,5 +1,3 @@
-## Introduction
-
 ## Data sources
 Both sources are fictionalized to provide analysts the opportunity to practice.
 
