@@ -45,12 +45,10 @@ We compared members' and casual users' ride length, the average ride time by day
 ## Visualization
 Two charts were created, and can be found in the Appendix item called 'presentation'.
 
-## Conclusion
-
+## Summary
+Overall, the company has more monthly members than casual users. Breaking the data down another way, the company's monthly members use the bikes more during the week and less on the weekend. However, casual riders are just the opposite - less used during the week, but an uptick over the weekends.
 
 ## Appendix
-Annotated R markdown document [https://github.com/twofistededitor/Cyclistic-Customer-Analysis/blob/main/R-code-for-Cyclistic-Custoemr-Analysis.md] 
+Annotated R markdown document https://github.com/twofistededitor/Cyclistic-Customer-Analysis/blob/main/R-code-for-Cyclistic-Custoemr-Analysis.md
 Presentation []
-Changelog
-
-## Presentation
+Changelog [https://github.com/twofistededitor/Cyclistic-Customer-Analysis/blob/main/Changelog.docx]
