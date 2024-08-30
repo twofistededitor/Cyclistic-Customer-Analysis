@@ -50,5 +50,7 @@ Overall, the company has more monthly members than casual users. Breaking the da
 
 ## Appendix
 Annotated R markdown document https://github.com/twofistededitor/Cyclistic-Customer-Analysis/blob/main/R-code-for-Cyclistic-Custoemr-Analysis.md
-Presentation []
-Changelog [https://github.com/twofistededitor/Cyclistic-Customer-Analysis/blob/main/Changelog.docx]
+
+Presentation https://github.com/twofistededitor/Cyclistic-Customer-Analysis/blob/main/Cyclistic%20Presentation.pptx
+
+Changelog https://github.com/twofistededitor/Cyclistic-Customer-Analysis/blob/main/Changelog.docx
