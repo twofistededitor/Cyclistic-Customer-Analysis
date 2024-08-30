@@ -47,7 +47,7 @@ Two charts were created, and can be found in the Appendix item called 'presentat
 Overall, the company has more monthly members than casual users. Breaking the data down another way, the company's monthly members use the bikes more during the week and less on the weekend. However, casual riders are just the opposite - less used during the week, but an uptick over the weekends.
 
 ## Appendix
-Annotated R markdown document https://github.com/twofistededitor/Cyclistic-Customer-Analysis/blob/main/R-code-for-Cyclistic-Customer-Analysis.md
+Annotated R markdown document https://github.com/twofistededitor/Cyclistic-Customer-Analysis/blob/main/R%20code%20for%20Cyclistic%20Customer%20Analysis.Rmd
 
 Presentation https://github.com/twofistededitor/Cyclistic-Customer-Analysis/blob/main/Cyclistic%20Presentation.pptx
 
